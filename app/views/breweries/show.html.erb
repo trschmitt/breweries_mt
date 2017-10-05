@@ -1,3 +1,8 @@
-hello
-Brewery Show Page
-<%= link_to "Log out", session_path, method: :delete %>
+<p id="notice"> <%= notice %> </p>
+
+<p> <%= link_to 'Events', events_path, class: "btn btn-primary" %> |
+<%= link_to "Log out", session_path, method: :delete %> </p>
+
+<body class="Brewery_show">
+  <h1><%= current_brewery.name %></h1>
+</body>

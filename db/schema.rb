@@ -25,6 +25,10 @@ ActiveRecord::Schema.define(version: 20171005191428) do
 
   create_table "events", force: :cascade do |t|
     t.string "name"
+    t.text "description"
+    t.datetime "start_at"
+    t.datetime "end_at"
+    t.string "sales"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.bigint "brewery_id"

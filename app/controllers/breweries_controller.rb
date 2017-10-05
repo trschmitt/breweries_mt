@@ -1,11 +1,6 @@
 class BreweriesController < ApplicationController
 
   def show
-    #code
-  end
-  
-  def index
-    @breweries = Brewery.all
   end
 
   def new
