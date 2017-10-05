@@ -3,6 +3,18 @@ class BreweriesController < ApplicationController
   def show
   end
 
+  def edit
+  end
+
+  def update
+    @brewery = current_brewery
+    if @brewery.update(brewery_params)
+      redirect_to current_brewery
+    else
+      render :edit
+    end
+  end
+
   def new
     @brewery = Brewery.new
   end
@@ -11,7 +23,7 @@ class BreweriesController < ApplicationController
     @brewery = Brewery.new(brewery_params)
     if @brewery.save
       session[:brewery_id] = @brewery.id
-      redirect_to @brewery
+      redirect_to edit_brewery_path(current_brewery.id)
     else
       render :new
     end
@@ -20,6 +32,22 @@ class BreweriesController < ApplicationController
   private
 
   def brewery_params
-    params.require(:brewery).permit(:name, :email, :password, :password_confirmation)
+    params
+      .require(:brewery)
+      .permit(
+        :name,
+        :email,
+        :password,
+        :password_confirmation,
+        :phone,
+        :description,
+        :website,
+        :established,
+        :address_street,
+        :address_city,
+        :address_state,
+        :operating_hours,
+        :location_type,
+       )
   end
 end

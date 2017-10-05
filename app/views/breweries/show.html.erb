@@ -1,8 +1,20 @@
 <p id="notice"> <%= notice %> </p>
 
-<p> <%= link_to 'Events', events_path, class: "btn btn-primary" %> |
-<%= link_to "Log out", session_path, method: :delete %> </p>
+<p> <%= link_to 'Events', events_path, class: "btn btn-primary" %>
 
 <body class="Brewery_show">
   <h1><%= current_brewery.name %></h1>
+  <h6><%= link_to 'Website', current_brewery.website, class: "btn btn-info" %></h6>
+
+  <h2>Address: <%= current_brewery.address_street %> | <%= current_brewery.address_city %></h2>
+
+
+  <h3>Established: <%= current_brewery.established %></h3>
+
+  <h4>Operating Hours: <%= current_brewery.operating_hours %></h4>
+
+  <h4>Type: <%= current_brewery.location_type %></h4>
+
+
+  <p><%= current_brewery.description %></p>
 </body>

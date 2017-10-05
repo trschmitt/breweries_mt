@@ -17,8 +17,17 @@ ActiveRecord::Schema.define(version: 20171005191428) do
 
   create_table "breweries", force: :cascade do |t|
     t.string "name"
+    t.string "phone"
     t.string "email"
     t.string "password_digest"
+    t.text "description"
+    t.string "website"
+    t.string "established"
+    t.string "address_street"
+    t.string "address_city"
+    t.string "address_state"
+    t.string "operating_hours"
+    t.string "location_type"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

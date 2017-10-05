@@ -1,0 +1,75 @@
+<body>
+  <h1>Edit Your Information</h1>
+  <%= form_with(model: current_brewery, local: true) do |form| %>
+    <% if current_brewery.errors.any? %>
+      <div id="error_explanation">
+        <h2><%= pluralize(brewery.errors.count, "error") %> prohibited this brewery from being saved:</h2>
+
+        <ul>
+        <% current_brewery.errors.full_messages.each do |message| %>
+          <li><%= message %></li>
+        <% end %>
+        </ul>
+      </div>
+    <% end %>
+
+    <div class="field">
+      <%= form.label :name %>
+      <%= form.text_field :name, id: :brewery_name %>
+    </div>
+
+    <div class="field">
+      <%= form.label :email %>
+      <%= form.email_field :email, id: :brewery_email %>
+    </div>
+
+    <div class="field">
+      <%= form.label :phone %>
+      <%= form.telephone_field :phone, id: :brewery_phone %>
+    </div>
+
+    <div class="field">
+      <%= form.label :website %>
+      <%= form.url_field :website, id: :brewery_website %>
+    </div>
+
+    <div class="field">
+      <%= form.label :description %>
+      <%= form.text_area :description, id: :brewery_description %>
+    </div>
+
+    <div class="field">
+      <%= form.label :established %>
+      <%= form.text_field :established, id: :brewery_established %>
+    </div>
+
+    <div class="field">
+      <%= form.label :address_street %>
+      <%= form.text_field :address_street, id: :brewery_address_street %>
+    </div>
+
+    <div class="field">
+      <%= form.label :address_city %>
+      <%= form.text_field :address_city, id: :brewery_address_city %>
+    </div>
+
+    <div class="field">
+      <%= form.label :address_state %>
+      <%= form.text_field :address_state, id: :brewery_address_state %>
+    </div>
+
+    <div class="field">
+      <%= form.label :operating_hours %>
+      <%= form.text_field :operating_hours, id: :brewery_operating_hours %>
+    </div>
+
+    <div class="field">
+      <%= form.label :location_type %>
+      <%= form.text_field :location_type, id: :brewery_location_type %>
+    </div>
+
+    <div class="actions">
+      <%= form.submit %>
+    </div>
+  <% end %>
+</body>
