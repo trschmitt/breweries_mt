@@ -2,18 +2,18 @@ class EventsController < ApplicationController
   before_action :set_event, only: [:show, :edit, :update, :destroy]
 
   def index
-    @events = Event.all
+    @events = current_brewery.events
   end
 
   def show
   end
 
   def new
-    @event = Event.new
+    @event = current_brewery.events.build
   end
 
   def create
-    @event = Event.new(event_params)
+    @event = current_brewery.events.build(event_params)
 
     if @event.save
       redirect_to @event
@@ -41,7 +41,7 @@ class EventsController < ApplicationController
   private
 
   def set_event
-    @event = Event.find(params[:id])
+    @event = current_brewery.events.find(params[:id])
   end
 
   def event_params
