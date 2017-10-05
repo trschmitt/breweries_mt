@@ -1,4 +1,4 @@
-class EventsController < ApplicationController
+class Manage::EventsController < Manage::ApplicationController
   before_action :authenticate_brewery!
   before_action :set_event, only: [:show, :edit, :update, :destroy]
 
@@ -17,7 +17,7 @@ class EventsController < ApplicationController
     @event = current_brewery.events.build(event_params)
 
     if @event.save
-      redirect_to @event
+      redirect_to manage_event_path(@event)
     else
       render :new
     end
@@ -25,7 +25,7 @@ class EventsController < ApplicationController
 
   def destroy
     @event.destroy
-    redirect_to events_url
+    redirect_to manage_events_path
   end
 
   def edit
@@ -33,7 +33,7 @@ class EventsController < ApplicationController
 
   def update
     if @event.update(event_params)
-      redirect_to @event
+      redirect_to manage_event_path(@event)
     else
       render :edit
     end

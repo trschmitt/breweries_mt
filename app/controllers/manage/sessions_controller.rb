@@ -1,4 +1,4 @@
-class SessionsController < ApplicationController
+class Manage::SessionsController < Manage::ApplicationController
   def new
   end
 
@@ -7,14 +7,14 @@ class SessionsController < ApplicationController
 
     if brewery && brewery.authenticate(params[:password])
       session[:brewery_id] = brewery.id
-      redirect_to events_path
+      redirect_to manage_events_path
     else
-      redirect_to new_session_path
+      redirect_to manage_path, notice: "Login unsuccessful"
     end
   end
 
   def destroy
     session[:brewery_id] = nil
-    redirect_to new_session_path
+    redirect_to manage_path
   end
 end

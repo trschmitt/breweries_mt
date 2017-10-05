@@ -11,7 +11,7 @@
   </ul>
 <% end %>
 
-<%=  form_with model: @brewery, local: true do |f| %>
+<%=  form_with model: [ :manage, @brewery ], local: true do |f| %>
   Name: <%= f.text_field :name %>
   Email: <%= f.text_field :email %>
   Password: <%= f.password_field :password %>

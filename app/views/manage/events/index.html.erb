@@ -13,7 +13,7 @@
   <tbody>
     <% @events.each do |event| %>
       <tr>
-        <td><%= link_to event.name, event %></td>
+        <td><%= link_to event.name, manage_event_path(event) %></td>
       </tr>
     <% end %>
   </tbody>
@@ -21,4 +21,4 @@
 
 <br>
 
-<%= link_to 'New Event', new_event_path %>
+<%= link_to 'New Event', new_manage_event_path %>

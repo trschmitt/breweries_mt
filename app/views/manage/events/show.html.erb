@@ -1,9 +1,9 @@
 <p id="notice"><%= notice %></p>
 <h1><%= current_brewery.name %> Event</h1>
 
-<p><%= link_to 'Edit', edit_event_path(@event) %> |
-<%= link_to 'Back', events_path %> |
-<%= link_to 'Destroy', @event, method: :delete, data: { confirm: 'Are you sure?' } %></p>
+<p><%= link_to 'Edit', edit_manage_event_path(@event) %> |
+<%= link_to 'Back', manage_events_path %> |
+<%= link_to 'Destroy', manage_event_path(@event), method: :delete, data: { confirm: 'Are you sure?' } %></p>
 
 <h1><%= @event.name %></h1>
 

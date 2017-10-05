@@ -1,6 +1,6 @@
 <body>
   <h1>Edit Your Information</h1>
-  <%= form_with(model: current_brewery, local: true) do |form| %>
+  <%= form_with(model: [ :manage, current_brewery ], local: true) do |form| %>
     <% if current_brewery.errors.any? %>
       <div id="error_explanation">
         <h2><%= pluralize(brewery.errors.count, "error") %> prohibited this brewery from being saved:</h2>

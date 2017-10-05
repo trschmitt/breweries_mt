@@ -1,4 +1,4 @@
-class BreweriesController < ApplicationController
+class Manage::BreweriesController < Manage::ApplicationController
 
   def show
   end
@@ -9,7 +9,7 @@ class BreweriesController < ApplicationController
   def update
     @brewery = current_brewery
     if @brewery.update(brewery_params)
-      redirect_to current_brewery
+      redirect_to manage_brewery_path(current_brewery)
     else
       render :edit
     end
@@ -23,7 +23,7 @@ class BreweriesController < ApplicationController
     @brewery = Brewery.new(brewery_params)
     if @brewery.save
       session[:brewery_id] = @brewery.id
-      redirect_to edit_brewery_path(current_brewery.id)
+      redirect_to edit_manage_brewery_path(current_brewery.id)
     else
       render :new
     end
