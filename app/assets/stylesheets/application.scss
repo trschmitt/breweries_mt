@@ -20,12 +20,15 @@ body {
   background-color: #c8cdca;
   padding: 10px;
 }
+table {
+  border-radius: 6px;
+  background-color: #E9ECEF;
 
-td {
-  border-left: solid 1px #598286;
-  border-right: solid 1px #598286;
+  td {
+    border-top: solid 1px #598286;
+    padding: 10px;
+  }
 
-  padding: 10px;
 }
 
 .container {
@@ -37,8 +40,10 @@ td {
   }
 
   .col-sm-4 {
+    border-radius: 6px;
+    background-color: #E9ECEF;
     padding: 2px;
     margin: 5px;
-    border-bottom: solid 1px #598286;
+    border: solid 1px #598286;
   }
 }
