@@ -19,6 +19,5 @@
   </tbody>
 </table>
 
-<br>
-
-<%= link_to 'New Event', new_manage_event_path %>
+<%= paginate @events %>
+<%= page_entries_info @events %>

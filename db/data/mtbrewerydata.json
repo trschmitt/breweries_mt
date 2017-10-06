@@ -1,0 +1,2848 @@
+[
+  {
+    "id": "qbDFbx",
+    "name": "Canyon Creek Brewing",
+    "streetAddress": "3060 Gabel Rd",
+    "locality": "Billings",
+    "region": "Montana",
+    "postalCode": "59102",
+    "phone": "(406) 656-2528",
+    "website": "http://canyoncreekbrewing.com",
+    "hoursOfOperation": "Daily  2:00-8:00 pm",
+    "latitude": 45.744294,
+    "longitude": -108.5925207,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "2013",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2014-07-22 22:55:38",
+    "updateDate": "2014-09-29 20:12:03",
+    "breweryId": "Bplvw6",
+    "brewery": {
+      "id": "Bplvw6",
+      "name": "Canyon Creek Brewing",
+      "nameShortDisplay": "Canyon Creek",
+      "description":
+        "Canyon Creek Brewing is Billings, Montana's first built-from-the-ground-up brewery and tap room.",
+      "website": "http://canyoncreekbrewing.com",
+      "established": "2013",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Bplvw6/upload_LA4iIQ-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Bplvw6/upload_LA4iIQ-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Bplvw6/upload_LA4iIQ-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Bplvw6/upload_LA4iIQ-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Bplvw6/upload_LA4iIQ-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2014-07-22 22:49:38",
+      "updateDate": "2015-12-22 15:56:18",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "3JNh3v",
+    "name": "FLBC Pubhouse",
+    "streetAddress": "116 Holt Dr.",
+    "locality": "Bigfork",
+    "region": "Montana",
+    "postalCode": "59911",
+    "phone": "4068370085",
+    "latitude": 48.0642939,
+    "longitude": -114.083249,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "restaurant",
+    "locationTypeDisplay": "Restaurant/Ale House",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-06-04 18:35:45",
+    "updateDate": "2015-06-05 16:11:31",
+    "breweryId": "iYAf2b",
+    "brewery": {
+      "id": "iYAf2b",
+      "name": "Flathead Lake Brewing Company",
+      "nameShortDisplay": "Flathead Lake",
+      "description":
+        "Flathead Lake Brewing Co. was established in 2004 on the east shore of Flathead Lake in Woods Bay, Montana and is home to handcrafted award winning beers, excellent food and spectacular views. Stop by our world class tasting room for one of our beers and sit back and enjoy the incredible mountain and lake views. It is a Montana experience to remember. Flathead Lake Brewing Co. was established in 2004 with a kitchen added in  March of 2010. FLBC endeavors to provide the highest quality product (all natural, unfiltered, and full of flavor) and customer satisfaction while supporting a responsible beer culture... \u201cQuality Montana Lifestyle, crafted and brewed in the Flathead Valley\u201d. The Brewery features ten premier award winning quality crafted brews as well as seasonal offerings. In addition to our focus on product quality, FLBC creates a positive experience for our customers by offering more than a great brewpub where people can come to relax and converse over great food and beer. It offers a place where people can come to learn more about the beer and the brewing process.",
+      "website": "http://www.flatheadlakebrewing.com/",
+      "established": "2004",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/iYAf2b/upload_pQVxy3-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/iYAf2b/upload_pQVxy3-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/iYAf2b/upload_pQVxy3-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/iYAf2b/upload_pQVxy3-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/iYAf2b/upload_pQVxy3-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:54",
+      "updateDate": "2015-12-22 15:10:25",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "6jRpIY",
+    "name": "High Plains Brewing",
+    "streetAddress": "601 E Main Street",
+    "locality": "Laurel",
+    "region": "Montana",
+    "postalCode": "59044",
+    "phone": "4066334594",
+    "latitude": 45.6712348,
+    "longitude": -108.7641589,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2017-07-27 06:31:07",
+    "updateDate": "2017-07-28 14:11:40",
+    "breweryId": "I24OHN",
+    "brewery": {
+      "id": "I24OHN",
+      "name": "High Plains Brewing",
+      "nameShortDisplay": "High Plains",
+      "description":
+        "We are proudly located in Laurel, MT and are committed to producing quality, traditional styles of beer to the MT craft beer industry",
+      "website": "https://www.facebook.com/pg/highplainsbrewing/",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/I24OHN/upload_jj55ov-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/I24OHN/upload_jj55ov-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/I24OHN/upload_jj55ov-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/I24OHN/upload_jj55ov-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/I24OHN/upload_jj55ov-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-07-27 06:19:34",
+      "updateDate": "2017-07-27 18:31:31",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "ofE2TI",
+    "name": "Main Brewery",
+    "streetAddress": "100 South Broadway",
+    "locality": "Belgrade",
+    "region": "Montana",
+    "postalCode": "59714",
+    "phone": "406-388-9182",
+    "hoursOfOperation": "Open 7 days a week.  11am to 8pm",
+    "latitude": 45.775047,
+    "longitude": -111.178327,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "2011",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-03-02 12:52:11",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "dTzwww",
+    "brewery": {
+      "id": "dTzwww",
+      "name": "Outlaw Brewing",
+      "nameShortDisplay": "Outlaw",
+      "description":
+        "Small batch brewery paired with \"Bar 3 BBQ\" restaurant in Belgrade, MT.  Our 2 BBL kettle and 7 BBL fermenters allow us the flexibility to make many seasonal beers.  We pride ourselves on producing a \"new\" or seasonal beer every month.  Currently with 8 beers on tap, plan on always finding our Session Pale Ale, Chocolate Porter, Amber Ale, Irish Cream Ale, along with our current seasonals.",
+      "website": "http://outlaw-brewing.com/",
+      "established": "2011",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/dTzwww/upload_AIYquW-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/dTzwww/upload_AIYquW-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/dTzwww/upload_AIYquW-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/dTzwww/upload_AIYquW-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/dTzwww/upload_AIYquW-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-03-02 12:49:10",
+      "updateDate": "2016-11-23 14:21:11",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "gop0Gz",
+    "name": "Main Brewery",
+    "streetAddress": "2123B 1st Ave N",
+    "locality": "Billings",
+    "region": "Montana",
+    "postalCode": "59101",
+    "phone": "406-245-0918",
+    "website": "http://www.yellowstonevalleybrew.com/",
+    "latitude": 45.7860789,
+    "longitude": -108.4978757,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:42:13",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "4AaNXK",
+    "brewery": {
+      "id": "4AaNXK",
+      "name": "Yellowstone Valley Brewing Co.",
+      "nameShortDisplay": "Yellowstone Valley",
+      "description":
+        "The Yellowstone Valley Brewery is located near the historic downtown district of Billings, Montana. All our ales are hand brewed under the watchful eye of Chief Brewer, George Moncure, brewed by Caleb Lausch and Ryan Koga, and served to you by all of us with Tap Room manager Donnie Veltri.\r\n\r\nAll our fermenting tanks are computer temperature controlled to keep the yeast happy! All brews are monitored for the correct carbonation content, and then immediately bottled to ensure the freshest, best tasting beer possible!",
+      "website": "http://www.yellowstonevalleybrew.com/",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/4AaNXK/upload_HOIpsu-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/4AaNXK/upload_HOIpsu-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/4AaNXK/upload_HOIpsu-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/4AaNXK/upload_HOIpsu-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/4AaNXK/upload_HOIpsu-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:13",
+      "updateDate": "2015-12-22 15:03:12",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "MjpQSa",
+    "name": "Main Brewery",
+    "streetAddress": "1445 North Broadway",
+    "locality": "Red Lodge",
+    "region": "Montana",
+    "postalCode": "59068",
+    "phone": "406-446-4607",
+    "website": "http://redlodgeales.com/",
+    "latitude": 45.1985478,
+    "longitude": -109.2461283,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "1998",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:42:06",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "53gvKx",
+    "brewery": {
+      "id": "53gvKx",
+      "name": "Red Lodge Ales Brewing Company",
+      "nameShortDisplay": "Red Lodge Ales",
+      "description":
+        "Red Lodge Ales Brewing Company has been brewing fine craft beer since 1998. Our new facility is the largest Solar Powered building in the state of Montana, and our award winning beers are available throughout Montana, Wyoming, and North Dakota .",
+      "website": "http://redlodgeales.com/",
+      "established": "1998",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/53gvKx/upload_muHmqF-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/53gvKx/upload_muHmqF-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/53gvKx/upload_muHmqF-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/53gvKx/upload_muHmqF-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/53gvKx/upload_muHmqF-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:06",
+      "updateDate": "2015-12-22 14:55:47",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "eS7K86",
+    "name": "Main Brewery",
+    "streetAddress": "101 East Oak Street",
+    "extendedAddress": "Suite D",
+    "locality": "Bozeman",
+    "region": "Montana",
+    "postalCode": "59715",
+    "latitude": 45.6929833,
+    "longitude": -111.0340753,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "2011",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:43",
+    "updateDate": "2015-12-03 18:45:07",
+    "breweryId": "RLc3kq",
+    "brewery": {
+      "id": "RLc3kq",
+      "name": "406 Brewing Company",
+      "nameShortDisplay": "406",
+      "description": "406 Brewing Company with brewer Matt Muth",
+      "website": "http://www.406brewingcompany.com/",
+      "established": "2011",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/RLc3kq/upload_oJjI08-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/RLc3kq/upload_oJjI08-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/RLc3kq/upload_oJjI08-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/RLc3kq/upload_oJjI08-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/RLc3kq/upload_oJjI08-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:43",
+      "updateDate": "2015-12-22 15:04:12",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "S8kCfW",
+    "name": "Main Brewery",
+    "streetAddress": "121 W Main St",
+    "locality": "Bozeman",
+    "region": "Montana",
+    "postalCode": "59715",
+    "phone": "(406) 992-5798",
+    "website": "http://www.whitedogbrewing.com/",
+    "hoursOfOperation":
+      "Thu:  12:00pm - 8:00pm\nFri:  12:00pm - 8:00pm\nSat:  12:00pm - 8:00pm\nSun:  12:00pm - 8:00pm\nMon:  12:00pm - 8:00pm\nTue:  12:00pm - 8:00pm\nWed:  12:00pm - 8:00pm\n\n",
+    "latitude": 45.6795992,
+    "longitude": -111.0394051,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2016-05-05 17:57:13",
+    "updateDate": "2016-05-05 17:57:13",
+    "breweryId": "Ep7bAV",
+    "brewery": {
+      "id": "Ep7bAV",
+      "name": "White Dog Brewing Co.",
+      "nameShortDisplay": "White Dog",
+      "description": "East end of Bozeman on Main",
+      "website": "http://www.whitedogbrewing.com",
+      "established": "2015",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Ep7bAV/upload_WG1DNm-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Ep7bAV/upload_WG1DNm-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Ep7bAV/upload_WG1DNm-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Ep7bAV/upload_WG1DNm-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Ep7bAV/upload_WG1DNm-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-04-05 01:32:03",
+      "updateDate": "2016-05-05 19:23:44",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "XJpbSw",
+    "name": "Main Brewery",
+    "streetAddress": "3008 1st Ave N",
+    "locality": "Billings",
+    "region": "Montana",
+    "postalCode": "59101",
+    "phone": "4069693200",
+    "website": "thirstystreet.com",
+    "latitude": 45.780531,
+    "longitude": -108.5084417,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2017-06-12 21:59:21",
+    "updateDate": "2017-08-23 03:09:05",
+    "breweryId": "8YWLjS",
+    "brewery": {
+      "id": "8YWLjS",
+      "name": "Thirsty Street Brewing Company",
+      "nameShortDisplay": "Thirsty Street",
+      "description":
+        "Thirsty Street Brewing Company is a microbrewery located in Downtown Billings, Montana. Offering a diverse selection of fresh brewed beer and a wine on tap, there is something for everyone! There is a patio and game room with pool table, shuffleboard, darts, tv's. Food offerings include Montana made hot dogs and sausages and a variety of bar snacks.",
+      "website": "https://www.thirstystreet.com/",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/8YWLjS/upload_IjwgPP-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/8YWLjS/upload_IjwgPP-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/8YWLjS/upload_IjwgPP-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/8YWLjS/upload_IjwgPP-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/8YWLjS/upload_IjwgPP-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-06-12 21:59:19",
+      "updateDate": "2017-06-13 13:53:05",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "xTkRql",
+    "name": "Main Brewery",
+    "streetAddress": "401 East Main Street",
+    "locality": "Belgrade",
+    "region": "Montana",
+    "postalCode": "59714",
+    "phone": "1-800-793-6656",
+    "latitude": 45.7735981,
+    "longitude": -111.1715377,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:46",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "JDYdnx",
+    "brewery": {
+      "id": "JDYdnx",
+      "name": "Big Hole Brewing",
+      "nameShortDisplay": "Big Hole",
+      "isOrganic": "N",
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:46",
+      "updateDate": "2015-12-22 14:39:47",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "uvLV9d",
+    "name": "Main Brewery",
+    "streetAddress": "915 Toole Ave.",
+    "locality": "Missoula",
+    "region": "Montana",
+    "postalCode": "59802",
+    "phone": "406-541-1592",
+    "website": "http://www.draughtworksbrewery.com/",
+    "hoursOfOperation": "Mon - Sun:\t12:00 pm\t-\t9:00 pm",
+    "latitude": 46.878022,
+    "longitude": -114.003556,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-08-15 21:29:28",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "lsVvbw",
+    "brewery": {
+      "id": "lsVvbw",
+      "name": "Draught Works Brewery",
+      "nameShortDisplay": "Draught Works",
+      "description":
+        "Draught Works Brewery is committed to creating worldclass, hand-crafted beers for the good people of Missoula.",
+      "website": "http://www.draughtworksbrewery.com/",
+      "established": "2011",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/lsVvbw/upload_ne7fO7-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/lsVvbw/upload_ne7fO7-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/lsVvbw/upload_ne7fO7-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/lsVvbw/upload_ne7fO7-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/lsVvbw/upload_ne7fO7-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-08-15 21:28:25",
+      "updateDate": "2015-12-22 15:36:40",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "kyhLWY",
+    "name": "Main Brewery",
+    "streetAddress": "5417 Trumpeter Way",
+    "locality": "Missoula",
+    "region": "Montana",
+    "postalCode": "59808",
+    "phone": "1-800-559-2774",
+    "latitude": 46.922331,
+    "longitude": -114.072833,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:46",
+    "updateDate": "2014-10-29 16:02:11",
+    "breweryId": "OoAgZ8",
+    "brewery": {
+      "id": "OoAgZ8",
+      "name": "Big Sky Brewing",
+      "nameShortDisplay": "Big Sky",
+      "description":
+        "Brewing Great Beer in the Northern Rockies Since 1995. We brew beers that we like to drink, and we hope you will enjoy them as well.",
+      "website": "http://www.bigskybrew.com/",
+      "established": "1995",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/OoAgZ8/upload_PY3RHz-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/OoAgZ8/upload_PY3RHz-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/OoAgZ8/upload_PY3RHz-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/OoAgZ8/upload_PY3RHz-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/OoAgZ8/upload_PY3RHz-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:46",
+      "updateDate": "2015-12-22 14:39:50",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "eRdXNO",
+    "name": "Main Brewery",
+    "streetAddress": "Polson MT 59860",
+    "locality": "Polson",
+    "region": "Montana",
+    "website": "http://www.blackdogales.com/",
+    "latitude": 47.695557,
+    "longitude": -114.184998,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:42:08",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "BmCSoh",
+    "brewery": {
+      "id": "BmCSoh",
+      "name": "Spanish Peaks Brewing",
+      "nameShortDisplay": "Spanish Peaks",
+      "website": "http://www.blackdogales.com/",
+      "isOrganic": "N",
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:08",
+      "updateDate": "2015-12-22 14:58:40",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "Ubu4S4",
+    "name": "Main Brewery",
+    "locality": "Helena",
+    "region": "Montana",
+    "latitude": 46.58976,
+    "longitude": -112.021204,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:59",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "j55mSp",
+    "brewery": {
+      "id": "j55mSp",
+      "name": "Kessler Brewing",
+      "nameShortDisplay": "Kessler",
+      "isOrganic": "N",
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:59",
+      "updateDate": "2015-12-22 14:49:39",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "6vcsbV",
+    "name": "Main Brewery",
+    "streetAddress": "602 Myrtle St.",
+    "locality": "Missoula",
+    "region": "Montana",
+    "postalCode": "59801",
+    "phone": "406-728-1660",
+    "website": "http://www.kettlehouse.com/",
+    "latitude": 46.865708,
+    "longitude": -113.998587,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "1991",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:59",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "FTCwW9",
+    "brewery": {
+      "id": "FTCwW9",
+      "name": "Kettlehouse Brewing Company",
+      "nameShortDisplay": "Kettlehouse",
+      "description":
+        "It\u2019s 1991. Tim O\u2019Leary, a third generation Montanan was living in Colorado, finding his way working for NOAA, mountain biking and skiing\u2026 and feeling a little bit like a fish out of water. Colorado is a beautiful state, but Montana was home. One afternoon on his bike ride home, he spotted a new business that had cropped up in Boulder. It was a Brew on Premise (BOP) \u2013 a place where customers could come in and brew their own beer. Having dabbled in homebrewing for a few years, he tried it and thought, \u201cThis is my ticket back home.\u201d\r\n\r\nFast forward to 1995. Tim and his wife, Suzy Rizza, open Missoula\u2019s first BOP. Lots of people came to try it, and lots of people had a great time doing it. It wasn\u2019t quite making the bills though, and for the next 13 years, through good times and worse times - Tim was the guiding force behind the transformation of the Kettlehouse into a small microbrewery and neighborhood taproom.",
+      "website": "http://www.kettlehouse.com/",
+      "established": "1991",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FTCwW9/upload_cdYTxr-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FTCwW9/upload_cdYTxr-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FTCwW9/upload_cdYTxr-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FTCwW9/upload_cdYTxr-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FTCwW9/upload_cdYTxr-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:59",
+      "updateDate": "2015-12-22 15:08:13",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "jesKih",
+    "name": "Main Brewery",
+    "streetAddress": "101 Marcus Street",
+    "locality": "Hamilton",
+    "region": "Montana",
+    "postalCode": "59840",
+    "phone": "406-363-7468",
+    "website": "http://www.bitterrootbrewing.com/",
+    "latitude": 46.2476986,
+    "longitude": -114.1539423,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:46",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "rb0EaI",
+    "brewery": {
+      "id": "rb0EaI",
+      "name": "Bitter Root Brewing Company",
+      "nameShortDisplay": "Bitter Root",
+      "website": "http://www.bitterrootbrewing.com/",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/rb0EaI/upload_6MbVoP-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/rb0EaI/upload_6MbVoP-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/rb0EaI/upload_6MbVoP-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/rb0EaI/upload_6MbVoP-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/rb0EaI/upload_6MbVoP-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:46",
+      "updateDate": "2015-12-22 15:10:23",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "inBrUa",
+    "name": "Main Brewery",
+    "streetAddress": "12322 Dorsett Rd",
+    "locality": "Maryland Heights",
+    "region": "Montana",
+    "postalCode": "63043",
+    "phone": "+1 (314) 548-2270",
+    "website": "http://www.standardbrewingstl.com",
+    "latitude": 38.7147721,
+    "longitude": -90.4407156,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "brewpub",
+    "locationTypeDisplay": "Brewpub",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2016-02-26 23:24:05",
+    "updateDate": "2017-08-23 03:00:52",
+    "breweryId": "AF0ZfQ",
+    "brewery": {
+      "id": "AF0ZfQ",
+      "name": "Standard Brewing Company",
+      "nameShortDisplay": "Standard",
+      "description":
+        "Because our love for craft beer may only be surpassed by our love for drinking it with good food and friends in a comfortable and fun atmosphere, we created Standard Brewing Company, a microbrewery and pub dedicated to setting the standard for session beers and beer-grain pizza. All Standard Brewing Co. beers are brewed on site, in our shiny three-and-a-half barrel brewery by our awesome team of die-hard brewers.",
+      "website": "http://www.standardbrewingstl.com/",
+      "isOrganic": "N",
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-02-26 23:24:04",
+      "updateDate": "2016-03-01 17:58:11",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "htNHPC",
+    "name": "Main Brewery",
+    "streetAddress": "2525 Graves Creek",
+    "locality": "Eureka",
+    "region": "Montana",
+    "postalCode": "59917",
+    "phone": "406-889-3950",
+    "website": "http://homesteadales.com/",
+    "hoursOfOperation": "Thu - Sun: 3:00 pm - 8:00 pm",
+    "latitude": 48.817371,
+    "longitude": -114.902532,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "2013",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2013-08-09 12:10:33",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "nfuqFf",
+    "brewery": {
+      "id": "nfuqFf",
+      "name": "Homestead Ales",
+      "nameShortDisplay": "Homestead Ales",
+      "website": "http://homesteadales.com/",
+      "established": "2013",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/nfuqFf/upload_bcP75p-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/nfuqFf/upload_bcP75p-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/nfuqFf/upload_bcP75p-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/nfuqFf/upload_bcP75p-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/nfuqFf/upload_bcP75p-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-08-09 12:10:04",
+      "updateDate": "2015-12-22 15:46:25",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "7PR1yQ",
+    "name": "Main Brewery",
+    "streetAddress": "19203 Old U.S. 40",
+    "locality": "Higginsville",
+    "region": "Montana",
+    "postalCode": "64037",
+    "phone": "(660) 584-6661",
+    "latitude": 39.0326762,
+    "longitude": -93.7232005,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2016-05-17 14:12:06",
+    "updateDate": "2016-05-17 14:12:06",
+    "breweryId": "TGdhO5",
+    "brewery": {
+      "id": "TGdhO5",
+      "name": "Arcadian Moon",
+      "nameShortDisplay": "Arcadian Moon",
+      "description":
+        "Located just 45 minutes east of Kansas City, Arcadian Moon opened its doors in 2013 with a focus on Midwestern varietals and a desire to become one of Missouri\u2019s best winery destinations. Since then, we\u2019ve added live music on Saturdays and Sundays from spring to fall, opened a kitchen serving wood-fired pizzas and casual cuisine seven days a week, and is now one of Missouri\u2019s newest craft breweries.\r\n\r\nFrom Crimson Cabernet to Vignoles \u2014 and from dry to sweet \u2014 Arcadian Moon has a wide selection of Midwestern varietals, as well as some blends. Later this year they will be launching their Explorer Series\u2122, featuring wines produced from grapes grown beyond the heartland. Craft beers include K\u00f6lsch, Irish Ale, Brown Ale, Baltic Porter, Oatmeal Stout, IPA, Hard Ginger Ale, and more.",
+      "website": "http://www.arcadianmoon.com",
+      "established": "2013",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/TGdhO5/upload_0eonOn-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/TGdhO5/upload_0eonOn-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/TGdhO5/upload_0eonOn-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/TGdhO5/upload_0eonOn-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/TGdhO5/upload_0eonOn-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-05-16 19:18:51",
+      "updateDate": "2016-09-30 18:00:10",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "dXLAXI",
+    "name": "Main Brewery",
+    "streetAddress": "5th St S",
+    "locality": "Belt",
+    "region": "Montana",
+    "postalCode": "59412",
+    "phone": "406-277-3188",
+    "website": "http://www.harvestmoonbrew.com/",
+    "latitude": 47.3808327,
+    "longitude": -110.9268846,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:57",
+    "updateDate": "2015-11-05 16:44:35",
+    "breweryId": "FwmqM1",
+    "brewery": {
+      "id": "FwmqM1",
+      "name": "Harvest Moon Brewing",
+      "nameShortDisplay": "Harvest Moon",
+      "description":
+        "In 1996 an idea was born to start a brewery in west-central Montana with a name that reflected the region's rich agricultural tradition.  Thus, Harvest Moon Brewing set up operations in Belt, a rural community located 20 miles southeast of Great Falls.  Harvest Moon's first batches were available in late 1997.  Soon after, the brewery developed a reputation for a well-balanced, full-bodied beer that only quality ingredients in perfect amounts could produce.  The barley is grown and malted just a few miles from the brewery while the malted wheat and hops come from the Northwest. \r\n\r\nThe brewery uses modern, state-of-the-art brewing equipment but is still a \"hands-on\" system, which allows brewery owners Stan and John to ensure high production quality.  They oversee every step of the process, from malt handling to mashing, from wort transfer to yeast pitching, from fermentation to conditioning, and from packaging to shipping.  The fine attention to detail assures consistency of production and ultimately a great-tasting craft beer!Belt, Montana, is located 15 minutes southeast of Great Falls, and is home to about 700 fantastic Montanans. Harvest Moon Brewing Company calls Belt home and has named their wheat, Belgian-style ale, Beltian White, after the town.\r\n\r\nBelt is also strategically located above one of the purest sources of water. Wells tap into the Madison Formation where constant year-round temperature and quality allow Harvest Moon to use some of the most perfect water on Earth to brew beer.\r\n\r\nAnother great thing about Belt? They are located in the center of our great state, right in the middle of the grain-growers that supply our brewery with prime barley & wheat. Harvest Moon\u2019s ties to the farming community don\u2019t end there\u2026after we use the grains, we supply the spent mash to a local pig farmer to feed his hogs. Hence the name, Pigs Ass Porter. Delicious by itself and, surprisingly, with barbecued ribs!",
+      "website": "http://www.harvestmoonbrew.com/",
+      "established": "1997",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FwmqM1/upload_2X3TYo-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FwmqM1/upload_2X3TYo-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FwmqM1/upload_2X3TYo-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FwmqM1/upload_2X3TYo-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FwmqM1/upload_2X3TYo-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:57",
+      "updateDate": "2015-12-22 15:20:10",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "QFOApS",
+    "name": "Main Brewery",
+    "streetAddress": "66 South Park Avenue",
+    "locality": "Helena",
+    "region": "Montana",
+    "postalCode": "59601",
+    "phone": "406-449-3005",
+    "website": "http://www.blackfootriverbrewing.com/",
+    "latitude": 46.5872708,
+    "longitude": -112.0406585,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "1998",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:46",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "xBcHLT",
+    "brewery": {
+      "id": "xBcHLT",
+      "name": "Blackfoot River Brewing Company",
+      "nameShortDisplay": "Blackfoot River",
+      "description":
+        "Blackfoot River Brewing Company was founded in 1998, and began producing their line of handcrafted beers in January of 1999. The Brewery is located in the heart of historic Downtown Helena and near the headwaters of both the Big and Little Blackfoot Rivers.\r\n\r\nThe founding partners established the brewery to produce the finest, handcrafted, traditional beers to be found in Montana. All Blackfoot River beers are brewed with the highest quality traditional 2-row malts, hops, and yeasts, individually selected to produce each particular style of beer. Each of our specialty beers are carefully handcrafted 14 barrels at a time. Blackfoot River's beers are never pasteurized, normally unfiltered and are available exclusively on draught.\r\n\r\nBlackfoot River Brewing was founded and is operated by three partners:\r\n\r\nBrian Smith -Head Brewer and General Manager\r\nGreg Wermers - Off-Premise Sales\r\nBrad Simshaw - Brewer and Regulatory/Tax Manager\r\n\r\nFourteen barrel, three-vessel, steam-fired brewhouse\r\n(3) Fourteen barrel fermentation vessels\r\n(5) Fourteen barrel conditioning/bright tanks\r\n(3) Seven barrel conditioning/bright tanks\r\nPackaging: draft\r\nCapacity:1,850 barrels (annual)",
+      "website": "http://www.blackfootriverbrewing.com/",
+      "established": "1998",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/xBcHLT/upload_IdI8Mp-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/xBcHLT/upload_IdI8Mp-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/xBcHLT/upload_IdI8Mp-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/xBcHLT/upload_IdI8Mp-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/xBcHLT/upload_IdI8Mp-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:46",
+      "updateDate": "2015-12-22 15:10:27",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "Vq0Dad",
+    "name": "Main Brewery",
+    "streetAddress": "114 Main Street",
+    "locality": "Stevensville",
+    "region": "Montana",
+    "postalCode": "59870",
+    "phone": "406-777-0680",
+    "website": "http://blacksmithbrewing.com/",
+    "latitude": 46.511686,
+    "longitude": -114.092666,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "2008",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:46",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "cxYcHQ",
+    "brewery": {
+      "id": "cxYcHQ",
+      "name": "Blacksmith Brewing",
+      "nameShortDisplay": "Blacksmith",
+      "description":
+        "The building that houses Blacksmith Brewing Company was built in 1908.\r\nIt began as a steam laundry and later became a Blacksmith shop. With every brand the blacksmith made he would then burn it into the wall to make sure it was perfect. It took a great vision to see what it could become, and a lot of hard work. For seven months we labored, and opened on Oct. 25, 2008. The brands still stand to show testament of all who passed this way.",
+      "website": "http://blacksmithbrewing.com/",
+      "established": "2008",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/cxYcHQ/upload_jkiyWp-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/cxYcHQ/upload_jkiyWp-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/cxYcHQ/upload_jkiyWp-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/cxYcHQ/upload_jkiyWp-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/cxYcHQ/upload_jkiyWp-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:46",
+      "updateDate": "2015-12-22 15:10:21",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "P7F8tE",
+    "name": "Main Brewery",
+    "streetAddress": "465 E Galena",
+    "locality": "Butte",
+    "region": "Montana",
+    "postalCode": "59701",
+    "phone": "4064915980",
+    "website": "http://ButteBrewing.com",
+    "hoursOfOperation":
+      "Mon:  12:00pm - 8:00pm\nTue:  12:00pm - 8:00pm\nWed:  12:00pm - 8:00pm\nThu:  12:00pm - 8:00pm\nFri:  12:00pm - 8:00pm\nSat:  12:00pm - 8:00pm\nSun:  12:00pm - 8:00pm\n\nNoon to 8 pm Daily",
+    "latitude": 46.0126825,
+    "longitude": -112.5258214,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2016-07-07 23:28:44",
+    "updateDate": "2017-08-22 16:01:09",
+    "breweryId": "3sgSZ5",
+    "brewery": {
+      "id": "3sgSZ5",
+      "name": "Butte Brewing Company",
+      "nameShortDisplay": "Butte",
+      "description":
+        "The one and only, Butte Brewing Company is back in old Finn Town in East Butte!",
+      "website": "http://ButteBrewing.com",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/3sgSZ5/upload_05qCSJ-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/3sgSZ5/upload_05qCSJ-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/3sgSZ5/upload_05qCSJ-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/3sgSZ5/upload_05qCSJ-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/3sgSZ5/upload_05qCSJ-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2016-07-07 23:28:43",
+      "updateDate": "2016-08-22 13:54:54",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "pUzMgZ",
+    "name": "Main Brewery",
+    "streetAddress": "518 North First St.",
+    "locality": "Hamilton",
+    "region": "Montana",
+    "postalCode": "59840",
+    "phone": "(406) 375-5204",
+    "website": "http://www.highergroundbrewing.com",
+    "hoursOfOperation":
+      "Tue - Sat: 11:00 am - 8:00 pm\r\nSun: 1:00 pm - 8:00 pm",
+    "latitude": 46.2516887,
+    "longitude": -114.1562241,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "2011",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2013-06-26 15:30:39",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "30XUGs",
+    "brewery": {
+      "id": "30XUGs",
+      "name": "Higherground Brewing Company",
+      "nameShortDisplay": "Higherground",
+      "description":
+        "Handcrafted beers and wood fired pizzas.\r\nLocally owned and operated by Fenn Nelson and Jasper Miller.",
+      "website": "http://www.highergroundbrewing.com",
+      "established": "2011",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/30XUGs/upload_nbaInw-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/30XUGs/upload_nbaInw-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/30XUGs/upload_nbaInw-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/30XUGs/upload_nbaInw-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/30XUGs/upload_nbaInw-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-06-26 15:26:27",
+      "updateDate": "2015-12-22 15:44:09",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "RoiAq0",
+    "name": "Main Brewery",
+    "streetAddress": "1826 10th Avenue South",
+    "locality": "Great Falls",
+    "region": "Montana",
+    "postalCode": "59401",
+    "phone": "406-315-1340",
+    "website": "http://www.bowserbrew.com/",
+    "latitude": 47.4938068,
+    "longitude": -111.275478,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "Y",
+    "openToPublic": "N",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "2012",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2013-06-26 17:56:50",
+    "updateDate": "2017-07-05 18:42:46",
+    "breweryId": "C3N3oZ",
+    "brewery": {
+      "id": "C3N3oZ",
+      "name": "Bowser Brewing Company",
+      "nameShortDisplay": "Bowser",
+      "description":
+        "We are a local brewery that uses Montana grown Barley in all of our products.",
+      "website": "http://www.bowserbrew.com/",
+      "established": "2011",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/C3N3oZ/upload_5AbppL-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/C3N3oZ/upload_5AbppL-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/C3N3oZ/upload_5AbppL-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/C3N3oZ/upload_5AbppL-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/C3N3oZ/upload_5AbppL-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-06-26 15:07:20",
+      "updateDate": "2015-12-22 15:44:07",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "wr6SlF",
+    "name": "Main Brewery",
+    "streetAddress": "20 N 30th St",
+    "locality": "Billings",
+    "region": "Montana",
+    "postalCode": "59101",
+    "phone": "406-252-3370",
+    "latitude": 45.780531,
+    "longitude": -108.5084417,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:44",
+    "updateDate": "2017-06-13 14:09:32",
+    "breweryId": "FCkNo2",
+    "brewery": {
+      "id": "FCkNo2",
+      "name": "Angry Hank's Microbrewery",
+      "nameShortDisplay": "Angry Hank's Microbrewery",
+      "description":
+        "Old time service station turned brewpub, Angry Hanks is in very close proximity to the other brewpubs in town, making it very easy for a pubcrawl. With garage doors that open onto their wood-fenced patio, Angry Hanks has a unique service station ambience. \r\n\r\nHead brewer, Mohr worked at Red Lodge Ales for five years before moving to Billings and opening his own brewery. Providing outstanding selection and quality with 8 ales on tap including Anger Management Belgian-style Wheat, Angry Hank's Blonde, Street Fight Imperial Red, Dog Slobber Brown and Head Trauma IPA as well as seasonal beers.",
+      "website": "http://angryhanks.com/",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FCkNo2/upload_Je3znp-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FCkNo2/upload_Je3znp-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FCkNo2/upload_Je3znp-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FCkNo2/upload_Je3znp-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FCkNo2/upload_Je3znp-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:44",
+      "updateDate": "2017-08-01 16:12:09",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "48QyzR",
+    "name": "Main Brewery",
+    "streetAddress": "1609 S. 11th Avenue",
+    "locality": "Bozeman",
+    "region": "Montana",
+    "postalCode": "59715",
+    "phone": "(406) 587-2124",
+    "website": "http://www.bridgerbrewing.com/",
+    "hoursOfOperation": "Mon - Sun: 11:00 am - 9:00 pm",
+    "latitude": 45.662981,
+    "longitude": -111.0521118,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "2013",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2013-06-26 17:58:53",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "Qgog7R",
+    "brewery": {
+      "id": "Qgog7R",
+      "name": "Bridger Brewing Co.",
+      "nameShortDisplay": "Bridger",
+      "description":
+        "We are thrilled to provide our Bozeman community with unique hand-crafted brews, fresh artisan-style pizzas and more.\r\nLocally owned, family-friendly and Bobcat proud, BB brewpub is located just across from campus and Bobcat athletic facilities.\r\nWe're brewing up colorful array of ales and lagers are brewed on site utilizing fresh and locally-sourced ingredients.\r\nOur team is made of passionate individuals who consider opening Bridger Brewing a dream come true. We thank all of our friends and family for supporting us!",
+      "website": "http://www.bridgerbrewing.com/",
+      "established": "2013",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Qgog7R/upload_OPFFK4-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Qgog7R/upload_OPFFK4-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Qgog7R/upload_OPFFK4-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Qgog7R/upload_OPFFK4-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Qgog7R/upload_OPFFK4-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-06-26 15:19:08",
+      "updateDate": "2015-12-22 15:44:09",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "gS9n8s",
+    "name": "Main Brewery",
+    "streetAddress": "215 3rd St NW",
+    "locality": "Great Falls",
+    "region": "Montana",
+    "postalCode": "59404",
+    "website": "http://www.thefrontbrewing.com/",
+    "latitude": 47.5100069,
+    "longitude": -111.3166778,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2013-06-26 18:03:28",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "oN5ry0",
+    "brewery": {
+      "id": "oN5ry0",
+      "name": "The Front Brewing Co.",
+      "nameShortDisplay": "The Front",
+      "description":
+        "Born in the majesty of the Rocky Mountain Front, which also lends us our name, The Front Brewing Company is one on Montana's newest breweries. Located a stone's throw from the beautiful Missouri in the West Bank One development in Great Falls, we began brewing in the summer of 2012. Using Montana's finest barley coupled with only the highest quality speciality malts, hops, yeast, and good clean water we use only the best ingredients in our beer. Our beer's which are unique versions of classic and modern beer styles pay homage to the great brewers of yesterday and today, while inspiring the future. We believe in beer made RIGHT here to be enjoyed anywhere. Cheers",
+      "website": "http://www.thefrontbrewing.com",
+      "established": "2012",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/oN5ry0/upload_2YJUuj-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/oN5ry0/upload_2YJUuj-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/oN5ry0/upload_2YJUuj-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/oN5ry0/upload_2YJUuj-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/oN5ry0/upload_2YJUuj-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2013-06-26 15:13:20",
+      "updateDate": "2015-12-22 15:44:08",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "M4YG4T",
+    "name": "Main Brewery",
+    "streetAddress": "200 International Drive",
+    "locality": "Missoula",
+    "region": "Montana",
+    "postalCode": "59808",
+    "phone": "406-549-8193",
+    "hoursOfOperation":
+      "Monday 3pm - 8pm\r\nTuesday 3pm - 8pm\r\nWednesday 3pm - 8pm\r\nThursday 3pm - 8pm\r\nFriday NOON - 8pm\r\nSaturday NOON - 8pm\r\nSunday NOON - 8pm",
+    "latitude": 46.904825,
+    "longitude": -114.045107,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "tasting",
+    "locationTypeDisplay": "Tasting Room",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-10-26 18:40:59",
+    "updateDate": "2015-10-26 18:40:59",
+    "breweryId": "5nxdPz",
+    "brewery": {
+      "id": "5nxdPz",
+      "name": "Missoula Brewing Company",
+      "nameShortDisplay": "Missoula",
+      "description":
+        "Sitting between the tall stainless steel tanks of our brewery on one side, and the flowing waters of Grant Creek on the other side, you will find the MBC Tap Room and outdoor patio. The Tap Room features 2,000 square feet dedicated to providing a comfortable environment to enjoy a glass of Highlander, along with slice of artisan pizza and a salad.  The MBC outdoor patio sits aside Grant Creek, shaded by a long stretch of Cottonwood trees.  The main patio provides the perfect setting to enjoy being outdoors on a beautiful Montana day.",
+      "website": "http://Missoulabrewingcompany.com",
+      "established": "2015",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/5nxdPz/upload_yQY4Hc-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/5nxdPz/upload_yQY4Hc-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/5nxdPz/upload_yQY4Hc-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/5nxdPz/upload_yQY4Hc-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/5nxdPz/upload_yQY4Hc-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-10-24 16:00:46",
+      "updateDate": "2015-12-22 16:17:59",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "tDBfQU",
+    "name": "Main Brewery",
+    "streetAddress": "1600 25th Avenue NE",
+    "locality": "Black Eagle",
+    "region": "Montana",
+    "postalCode": "59414",
+    "website": "http://www.blackeaglebrewerymt.com",
+    "hoursOfOperation": "Noon - 8pm",
+    "latitude": 47.5283126,
+    "longitude": -111.2820548,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-02-21 18:55:14",
+    "updateDate": "2016-09-20 15:52:13",
+    "breweryId": "2Rwl3T",
+    "brewery": {
+      "id": "2Rwl3T",
+      "name": "Black Eagle Brewery",
+      "nameShortDisplay": "Black Eagle",
+      "website": "http://www.blackeaglebrewerymt.com",
+      "isOrganic": "N",
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-02-21 18:55:14",
+      "updateDate": "2015-12-22 16:05:12",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "AoYsOF",
+    "name": "Main Brewery",
+    "streetAddress": "326 Main Street",
+    "extendedAddress": "PO Box 654",
+    "locality": "Wolf Point",
+    "region": "Montana",
+    "postalCode": "59201",
+    "phone": "406-653-1467",
+    "website": "http://missouribreaksbrewery.tripod.com/",
+    "latitude": 48.090055,
+    "longitude": -105.6422417,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "Y",
+    "openToPublic": "N",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:42:02",
+    "updateDate": "2016-05-31 18:35:28",
+    "breweryId": "KWtrr6",
+    "brewery": {
+      "id": "KWtrr6",
+      "name": "Missouri Breaks Brewing",
+      "nameShortDisplay": "Missouri Breaks",
+      "description":
+        "Dr.Mark Zilkoski, family doc in Wolf Point, Montana and Mark Sansaver have been drinking beers for years together. Originating their taste for quality on the front porch of Doc'Z homestead, the two micro-brewer sippers were often accompanied by fellow river bottom hoodlums such as Jeff Presser, Jeff Neubauer, Marvin Presser and of course the Z Matriarch-Mrs. Myrle (Mark) Zilkoski. And that is where it all began, on the Breaks of the Mighty Missouri-just a stone's throw from the steps of the Z Manor on the Big Muddy. The barley and the wheat grains are all American grown, harvested & malted:\r\nSome of the brews are then roasted to the perfect temperature to produce the\r\nprecise amount of color and flavor.",
+      "website": "http://missouribreaksbrewing.com/index.html",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/KWtrr6/upload_D0DDta-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/KWtrr6/upload_D0DDta-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/KWtrr6/upload_D0DDta-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/KWtrr6/upload_D0DDta-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/KWtrr6/upload_D0DDta-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:02",
+      "updateDate": "2015-12-22 15:21:35",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "rTq0es",
+    "name": "Main Brewery",
+    "streetAddress": "549 Wisconsin Ave.",
+    "locality": "Whitefish",
+    "region": "Montana",
+    "phone": "(406) 730-1717",
+    "latitude": 48.4214721,
+    "longitude": -114.3407089,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-10-29 21:00:22",
+    "updateDate": "2015-10-29 21:01:52",
+    "breweryId": "J7aEv0",
+    "brewery": {
+      "id": "J7aEv0",
+      "name": "Bonsai Brewing Project",
+      "nameShortDisplay": "Bonsai Brewing Project",
+      "description":
+        "Located between Big Mountain and downtown Whitefish and just a few blocks from Whitefish Lake, the brewery will be a natural draw for the apr\u00e8s-ski and mountain bike crowd, while its prominent presence at a nucleus of residential neighborhoods will attract dog-walkers and cyclists, stroller-pushers and joggers.",
+      "established": "2014",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/J7aEv0/upload_S5XYrh-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/J7aEv0/upload_S5XYrh-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/J7aEv0/upload_S5XYrh-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/J7aEv0/upload_S5XYrh-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/J7aEv0/upload_S5XYrh-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-10-28 23:41:29",
+      "updateDate": "2015-12-22 16:18:15",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "3u7opD",
+    "name": "Main Brewery",
+    "streetAddress": "113 North Broadway",
+    "locality": "Billings",
+    "region": "Montana",
+    "postalCode": "59101",
+    "phone": "(406) 252-9200",
+    "website": "http://www.montanabrewingcompany.com/",
+    "hoursOfOperation": "Mon - Sun: 11:00 am - 2:00 am",
+    "latitude": 45.7825445,
+    "longitude": -108.5061681,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "1994",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:42:02",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "FcH1ln",
+    "brewery": {
+      "id": "FcH1ln",
+      "name": "Montana Brewing Company",
+      "nameShortDisplay": "Montana",
+      "description":
+        "In 1994 we combined the concepts of a small brewery, saloon and a restaurant to bring you a new and unique dining experience. Our diverse and \"beer-friendly\" menu offers great beer and food combinations for the most discriminating palette.",
+      "website": "http://www.montanabrewingcompany.com",
+      "established": "1994",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FcH1ln/upload_8gcidB-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FcH1ln/upload_8gcidB-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FcH1ln/upload_8gcidB-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FcH1ln/upload_8gcidB-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/FcH1ln/upload_8gcidB-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:02",
+      "updateDate": "2015-12-22 14:52:38",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "6IytVz",
+    "name": "Main Brewery",
+    "extendedAddress": "PO Box 22272",
+    "locality": "Billings",
+    "region": "Montana",
+    "phone": "406-252-1200",
+    "latitude": 45.7832856,
+    "longitude": -108.5006904,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "Y",
+    "openToPublic": "N",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:57",
+    "updateDate": "2017-06-13 18:13:38",
+    "breweryId": "lM4awQ",
+    "brewery": {
+      "id": "lM4awQ",
+      "name": "Himmelberger Brewing Co",
+      "nameShortDisplay": "Himmelberger",
+      "isOrganic": "N",
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:57",
+      "updateDate": "2015-12-22 15:20:23",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "w3imcu",
+    "name": "Main Brewery",
+    "streetAddress": "655 Lang Creek Road",
+    "locality": "Marion",
+    "region": "Montana",
+    "postalCode": "59925",
+    "phone": "(406) 858-2200",
+    "website": "http://langcreekbrewery.com/",
+    "latitude": 48.0140085,
+    "longitude": -115.0105941,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "Y",
+    "openToPublic": "N",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:42:00",
+    "updateDate": "2015-11-05 16:41:43",
+    "breweryId": "jtfHdd",
+    "brewery": {
+      "id": "jtfHdd",
+      "name": "Lang Creek Brewery",
+      "nameShortDisplay": "Lang Creek",
+      "description": "Good beer here!!",
+      "website": "http://langcreekbrewery.com/",
+      "isOrganic": "N",
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:00",
+      "updateDate": "2015-12-22 14:50:24",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "D1Etm4",
+    "name": "Main Brewery",
+    "streetAddress": "320 Main Street",
+    "locality": "Deer Lodge",
+    "region": "Montana",
+    "postalCode": "59722",
+    "phone": "(406) 846-4650",
+    "latitude": 46.3993344,
+    "longitude": -112.735465,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2017-07-24 19:03:20",
+    "updateDate": "2017-08-22 16:22:01",
+    "breweryId": "XzL1O6",
+    "brewery": {
+      "id": "XzL1O6",
+      "name": "Elk Ridge Brewing",
+      "nameShortDisplay": "Elk Ridge",
+      "description":
+        "Elk Ridge Brewing Company is all about community and friends sharing their lives over an amazing brew! Hope you'll come see us soon!",
+      "website": "http://www.elkridgebrewingcompany.com/home.html",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/XzL1O6/upload_tWhCiB-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/XzL1O6/upload_tWhCiB-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/XzL1O6/upload_tWhCiB-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/XzL1O6/upload_tWhCiB-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/XzL1O6/upload_tWhCiB-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2017-07-24 19:03:19",
+      "updateDate": "2017-07-25 14:07:34",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "RxITKw",
+    "name": "Main Brewery",
+    "streetAddress": "412 Main",
+    "locality": "Kalispell",
+    "region": "Montana",
+    "postalCode": "59901",
+    "website": "http://www.kalispellbrewing.com",
+    "hoursOfOperation":
+      "Mon:  12:00pm - 8:00pm\r\nTue:  12:00pm - 8:00pm\r\nWed:  12:00pm - 8:00pm\r\nThu:  12:00pm - 8:00pm\r\nFri:  12:00pm - 8:00pm\r\nSat:  12:00pm - 8:00pm",
+    "latitude": 48.194503,
+    "longitude": -114.312618,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-01-01 19:16:38",
+    "updateDate": "2016-09-20 15:48:23",
+    "breweryId": "MYbwf3",
+    "brewery": {
+      "id": "MYbwf3",
+      "name": "Kalispell Brewing Company",
+      "nameShortDisplay": "Kalispell",
+      "description":
+        "Glacier National Park, Flathead Lake, Bob Marshall Wilderness Complex, snowcapped peaks, miles of hiking trails, raging whitewater rivers, deep fresh powder: Kalispell Brewing Company is proud to call the Flathead Valley home.  When we aren\u2019t out exploring new trails or skiing fresh powder, we\u2019re proudly brewing handcrafted lagers and ales in Montana\u2019s Glacier country.  And after a full day of adventure who doesn\u2019t want a Montana-made beer?\r\n\r\nKalispell Brewing Company has a 10 barrel brewhouse with an additional third vessel which allows us to do decoction mashes. Decoction mashing is an old process which harkens back to continental Europe that allowed brewers to extract sugars from under-modified malts more effectively.  It is no longer necessary to efficiently extract the sugars but with our malt forward lagers, decoction mashing produces a melanoidin-laden wort, which our yeast turns into in a truly complex and well-balanced Montana-made beer.  Sure, we could try to compensate with specialty grains, but it just wouldn't taste the same. With our lager beers, we\u2019re after superior taste. Decoction mashes may take more time and be more labor intensive but we believe, like all good things, it\u2019s worth the wait.",
+      "website": "http://www.kalispellbrewing.com/",
+      "established": "2014",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/MYbwf3/upload_ZZAgq9-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/MYbwf3/upload_ZZAgq9-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/MYbwf3/upload_ZZAgq9-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/MYbwf3/upload_ZZAgq9-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/MYbwf3/upload_ZZAgq9-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-01-01 19:16:38",
+      "updateDate": "2015-12-22 16:02:59",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "OngtoQ",
+    "name": "Main Brewery",
+    "streetAddress": "105 Blacktail Road",
+    "extendedAddress": "Suite #1",
+    "locality": "Lakeside",
+    "region": "Montana",
+    "postalCode": "59922",
+    "phone": "406-844-0244",
+    "website": "http://www.tamarackbrewing.com/",
+    "latitude": 48.016073,
+    "longitude": -114.2251,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:42:09",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "6ERqtA",
+    "brewery": {
+      "id": "6ERqtA",
+      "name": "Tamarack Brewing Company",
+      "nameShortDisplay": "Tamarack",
+      "description":
+        "Tamarack is nestled beneath the Rocky and Mission Mountains in Lakeside, Montana, near the shores of beautiful Flathead Lake. High ceilings, fascinating architectural details and a warm ambience help make The 'Rack the best spot in the Flathead Valley to relax with great food and handcrafted ales. The creek side patio is the perfect place to hang out and enjoy the outdoors with friends and family. Tamarack is proud to be a casual brew pub where people can enjoy simple yet wonderful pub fare and ales in an unassuming and friendly atmosphere.",
+      "website": "http://www.tamarackbrewing.com/",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/6ERqtA/upload_BPBFzw-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/6ERqtA/upload_BPBFzw-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/6ERqtA/upload_BPBFzw-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/6ERqtA/upload_BPBFzw-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/6ERqtA/upload_BPBFzw-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:09",
+      "updateDate": "2015-12-22 15:10:24",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "AO4ev4",
+    "name": "Main Brewery",
+    "streetAddress": "675 1st St. W.",
+    "locality": "Havre",
+    "region": "Montana",
+    "postalCode": "59501",
+    "phone": "(406) 879-8103",
+    "latitude": 48.555764,
+    "longitude": -109.696143,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-11-05 16:48:26",
+    "updateDate": "2015-11-05 16:48:26",
+    "breweryId": "Jw9k5o",
+    "brewery": {
+      "id": "Jw9k5o",
+      "name": "Triple Dog Brewing Co.",
+      "nameShortDisplay": "Triple Dog",
+      "established": "2014",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Jw9k5o/upload_RdfGoR-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Jw9k5o/upload_RdfGoR-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Jw9k5o/upload_RdfGoR-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Jw9k5o/upload_RdfGoR-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/Jw9k5o/upload_RdfGoR-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-11-04 23:57:26",
+      "updateDate": "2015-12-22 16:18:40",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "mhnT4V",
+    "name": "Main Brewery",
+    "streetAddress": "48 N. Last Chance Gulch",
+    "locality": "Helena",
+    "region": "Montana",
+    "phone": "(406) 502-1382",
+    "latitude": 46.5884623,
+    "longitude": -112.0387609,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-11-05 16:50:00",
+    "updateDate": "2015-11-05 16:50:00",
+    "breweryId": "AtKAY7",
+    "brewery": {
+      "id": "AtKAY7",
+      "name": "Ten Mile Creek Brewery",
+      "nameShortDisplay": "Ten Mile Creek",
+      "description":
+        "Ten Mile Creek Brewery is located in the historic downtown walking mall of Helena, MT. Ten Mile Creek plans on continuing the tradition of bringing great beer to Helena.",
+      "established": "2015",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/AtKAY7/upload_SgruQv-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/AtKAY7/upload_SgruQv-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/AtKAY7/upload_SgruQv-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/AtKAY7/upload_SgruQv-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/AtKAY7/upload_SgruQv-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-11-05 02:13:39",
+      "updateDate": "2015-12-22 16:18:43",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "P1WHDw",
+    "name": "Main Brewery",
+    "streetAddress": "412 Central Ave.",
+    "locality": "Great Falls",
+    "region": "Montana",
+    "hoursOfOperation": "11:00 AM \u2013 8:00 PM Daily",
+    "latitude": 47.5050171,
+    "longitude": -111.2998906,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-11-05 16:51:59",
+    "updateDate": "2015-11-05 16:51:59",
+    "breweryId": "YZbMOg",
+    "brewery": {
+      "id": "YZbMOg",
+      "name": "Mighty Mo Brewing Company",
+      "nameShortDisplay": "Mighty Mo",
+      "description":
+        "Established in 2013, Mighty Mo Brewing Company is a brewery in the heart of Montana. Located in the middle of Downtown Great Falls, we intend to give downtown a much needed boost to revitalize the most under rated area in town. Our historic building was restored in recent years, providing a wow factor when you walk in the door, preparing you for the tasty brews you are about to indulge in! Mighty Mo has a full kitchen, offering pizza, wings, sandwiches, salads, and appetizers to go with your high quality, flavorful craft beer. We designed Mighty Mo Brewing Company to be a place where new and old friends can meet to enjoy quality beer, great food, and live music.",
+      "website": "http://mightymobrewing.com/",
+      "established": "2013",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/YZbMOg/upload_6cDqnE-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/YZbMOg/upload_6cDqnE-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/YZbMOg/upload_6cDqnE-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/YZbMOg/upload_6cDqnE-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/YZbMOg/upload_6cDqnE-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-11-05 01:57:33",
+      "updateDate": "2015-12-22 16:18:42",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "1LF5NN",
+    "name": "Main Brewery",
+    "streetAddress": "303 1st Ave. South",
+    "locality": "Gasglow",
+    "region": "Montana",
+    "postalCode": "59230",
+    "phone": "(406) 228-2277",
+    "latitude": 48.1927528,
+    "longitude": -106.6302987,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-11-05 16:54:08",
+    "updateDate": "2015-11-05 16:54:08",
+    "breweryId": "5Ii7mw",
+    "brewery": {
+      "id": "5Ii7mw",
+      "name": "Busted Knuckle Brewery",
+      "nameShortDisplay": "Busted Knuckle",
+      "description":
+        "Although the exterior of the building is pretty unassuming, the interior is welcoming and comfortable. There are two separate areas inside. In one area, patrons can sit in close proximity to the brew kettle and other apparatus, which creates a unique atmosphere and provides a good conversation starter. The other area is enhanced by natural light and a seating area for a small circle of friends. Scattered around the establishment are clever automotive references in the form of art, d\u00e9cor, and menu items. Overall the setting is open and easy to navigate, yet intimate.\r\nAs for the product, I'm no zymologist, but I'll try to do the microbrews justice. I chose to review the Black Nail Stout and the Radiator Dip Pale Ale \u2013 partly because they are so different.\r\nAlthough I enjoyed the flavor of the stout, it wasn't my favorite. My initial impression was bitterness and it was difficult for me to get beyond that and actually taste the beer. A second sample of the brew allowed me to recognize the rich flavor and the hint of coffee flavoring.\r\n\r\nThe pale ale I sampled was significantly lighter \u2013 in color and flavor. Although the IBU of the pale ale is higher than the stout, the body of the beer was smoother and had less bite. Beginner microbrew enthusiasts may enjoy testing the lighter brews first.",
+      "established": "2015",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/5Ii7mw/upload_yRuYVv-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/5Ii7mw/upload_yRuYVv-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/5Ii7mw/upload_yRuYVv-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/5Ii7mw/upload_yRuYVv-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/5Ii7mw/upload_yRuYVv-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-11-04 22:40:21",
+      "updateDate": "2015-12-22 16:18:38",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "dextWo",
+    "name": "Main Brewery",
+    "locality": "Superior",
+    "region": "Montana",
+    "latitude": 47.1915937,
+    "longitude": -114.8917978,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-11-05 17:04:26",
+    "updateDate": "2015-11-05 17:04:26",
+    "breweryId": "nD2yhY",
+    "brewery": {
+      "id": "nD2yhY",
+      "name": "Dunluce Brewing",
+      "nameShortDisplay": "Dunluce",
+      "description":
+        "Many people inspired us to not only brew, but to take something that makes us happy, find a way to share it with others and enjoy our work. We began brainstorming how to combine our love of beer and our family farms in Montana on a trip to Ireland and Italy in 2012. \r\n\r\nOur hope is that we make tasty beer that brings people together. We also hope that our work keeps us close to our family by growing barley at Adam's family farm in North Central Montana, growing our own hops, yeast and spices and brewing in Lauren's family's town in Western Montana. We believe that everything that goes in to our beer can be meaningful and improve the experience of drinking it.\r\n\r\nWe bought our half barrel system and worked more on recipes and licensing in 2013. We began construction at Lauren's family's farm in Spring 2014 and sold our first keg in October 2014.",
+      "website": "http://www.dunlucebrewing.com/",
+      "established": "2014",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/nD2yhY/upload_WHVZ9f-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/nD2yhY/upload_WHVZ9f-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/nD2yhY/upload_WHVZ9f-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/nD2yhY/upload_WHVZ9f-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/nD2yhY/upload_WHVZ9f-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-11-05 02:23:54",
+      "updateDate": "2015-12-22 16:18:44",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "ceEcjf",
+    "name": "Main Brewery",
+    "streetAddress": "1517 Dodge Avenue",
+    "locality": "Helena",
+    "region": "Montana",
+    "postalCode": "59601",
+    "phone": "406-442-5960",
+    "website": "http://lewisandclarkbrewing.com/",
+    "hoursOfOperation": "Mon - Sun: 2:00 pm - 8:00 pm",
+    "latitude": 46.5977279,
+    "longitude": -112.03726,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "yearOpened": "1995",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:42:00",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "v4tN9z",
+    "brewery": {
+      "id": "v4tN9z",
+      "name": "Lewis & Clark Brewing Company",
+      "nameShortDisplay": "Lewis & Clark",
+      "description":
+        "The great explorers are the inspiration for our breweries name and in many ways our brewing style. It's also where we live as we are located in the heart of the only Lewis & Clark County in the US. Our secret ingredient is the pride and craftsmanship added by dedicated people lucky enough to be called Montanans. Since our beginning, we have gone to the greatest of lengths to build one of the most efficient, sophisticated breweries around with one goal in mind: to produce the finest ales and lagers possible and serve them at their peak of freshness.",
+      "website": "http://lewisandclarkbrewing.com/",
+      "established": "1995",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/v4tN9z/upload_JsxTmB-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/v4tN9z/upload_JsxTmB-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/v4tN9z/upload_JsxTmB-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/v4tN9z/upload_JsxTmB-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/v4tN9z/upload_JsxTmB-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:00",
+      "updateDate": "2015-12-22 14:50:39",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "FyghgF",
+    "name": "Main Brewery",
+    "streetAddress": "245 Towncenter Ave.",
+    "locality": "Big Sky",
+    "region": "Montana",
+    "postalCode": "59716",
+    "phone": "(406) 995 7444",
+    "hoursOfOperation": "Mon - Sun 12PM - 8pm (Growlers filled till 9pm)",
+    "latitude": 45.2598421,
+    "longitude": -111.3049707,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-11-05 17:18:16",
+    "updateDate": "2015-11-05 17:18:16",
+    "breweryId": "SyzJdV",
+    "brewery": {
+      "id": "SyzJdV",
+      "name": "Beehive Basin Brewery",
+      "nameShortDisplay": "Beehive Basin",
+      "description":
+        "Beehive Basin Brewery is a new microbrewery located in the Town Center of Big Sky MT, right next to Roxy\u2019s Market. We operate a 7 barrel brewing system that has been created specifically for us by our friends at Portland Kettle Works in Portland, Oregon. We also run a small tap room where we invite you to come and taste some of our hand crafted brews. At this time we do not have any food service, but you are welcome to order in from one of Big Sky\u2019s many restaurants. We also on occasion will have a food truck parked in front of our tap room. \r\n\r\nOur small brewing system allows our brewmaster Andy Liedberg to constantly change up the beers we have on tap. Andy has been refining his skill at several different breweries across the country for over a decade. We are excited to finally let Andy realize his dream and start brewing the recipes he has been designing over the years. \r\n\r\nStop by the brewery after a day of fun in Big Sky and grab a pint or fill up a growler. Enjoy the mountain views from our tasting room or watch the brewmaster at work through our brewery viewing window. Hope to see you soon. \r\n\r\nCheers. \r\n\r\n\r\n245 Towncenter Ave\r\nBig Sky, MT 59716\r\nUnited States\r\n\r\nMon - Sun 12PM - 8pm(Growlers filled till 9pm)\r\nPhone (406) 995 7444\r\nEmail casey.folley@beehivebasinbrewery.com",
+      "website": "http://www.beehivebasinbrewery.com/",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/SyzJdV/upload_InuYnt-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/SyzJdV/upload_InuYnt-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/SyzJdV/upload_InuYnt-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/SyzJdV/upload_InuYnt-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/SyzJdV/upload_InuYnt-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-11-04 22:31:40",
+      "updateDate": "2015-12-22 16:18:37",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "ExxQt6",
+    "name": "Main Brewery",
+    "streetAddress": "211 Skyview Dr",
+    "locality": "Lewistown",
+    "region": "Montana",
+    "postalCode": "59457",
+    "phone": "406-350-0170",
+    "latitude": 47.051741,
+    "longitude": -109.4125794,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:42:00",
+    "updateDate": "2014-07-23 19:11:34",
+    "breweryId": "1vzD8f",
+    "brewery": {
+      "id": "1vzD8f",
+      "name": "Lewistown Brewing Co",
+      "nameShortDisplay": "Lewistown",
+      "description":
+        "LBC is still in the planning stages.  We are developing a business plan and seeking investors to help fund our startup.  Inquiries are welcome.",
+      "website": "http://www.lewistownbrewingcompany.com",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/1vzD8f/upload_Bbl4zX-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/1vzD8f/upload_Bbl4zX-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/1vzD8f/upload_Bbl4zX-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/1vzD8f/upload_Bbl4zX-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/1vzD8f/upload_Bbl4zX-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:00",
+      "updateDate": "2015-12-22 15:22:17",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "sIPVpg",
+    "name": "Main Brewery",
+    "streetAddress": "510 Manley Rd.",
+    "locality": "Bozeman",
+    "region": "Montana",
+    "phone": "(406) 587-4070",
+    "latitude": 45.7024791,
+    "longitude": -111.038376,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-11-05 17:21:11",
+    "updateDate": "2015-11-05 17:21:11",
+    "breweryId": "hcQvwN",
+    "brewery": {
+      "id": "hcQvwN",
+      "name": "MAP Brewing Co.",
+      "nameShortDisplay": "MAP",
+      "description":
+        "Our mission is simple: craft and drink great beer.  Through hard work, enthusiasm, and passion we hope to enhance your journey. Map Brewing Company\u2026 You are here!\r\nMAP Brewing Company focuses on delivering fresh, local, and high quality Montana beer served in a warm, friendly, and comfortable atmosphere.  Great craft beer, good times, and great community are the cornerstone of it all. Whether you ski, bike, fish, hunt, or just walk the dog\u2026the MAP Room is a perfect place to unwind and enjoy unparalleled views of the mountains while sipping on a fresh MAP Beer!",
+      "website": "http://mapbrewing.com/",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/hcQvwN/upload_xmoi7p-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/hcQvwN/upload_xmoi7p-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/hcQvwN/upload_xmoi7p-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/hcQvwN/upload_xmoi7p-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/hcQvwN/upload_xmoi7p-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-11-04 23:12:59",
+      "updateDate": "2015-12-22 16:18:39",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "Uc8Jz7",
+    "name": "Main Brewery",
+    "streetAddress": "202 Main Street",
+    "locality": "White Sulphur Springs",
+    "region": "Montana",
+    "phone": "(406) 547-2337",
+    "latitude": 46.54816,
+    "longitude": -110.9010709,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2015-11-05 17:46:39",
+    "updateDate": "2015-12-03 19:04:05",
+    "breweryId": "qfGVU4",
+    "brewery": {
+      "id": "qfGVU4",
+      "name": "2 Basset Brewery",
+      "nameShortDisplay": "2 Basset",
+      "description":
+        "Opening scheduled for January 2016.\r\n\r\nBeing born and raised in White Sulphur Springs, owner Barry Hedrich had a great appreciation for the hardworking, rural lifestyle known to many in the area. With its high elevation and cool evening temperatures,the area is known for its high quality wheat and malting barley. After their children left home, Barry and his wife Chris decided it was a good time to start a new hobby \u2013 brewing beer. After a couple of years of testing, (much) tasting, experimenting with doing our own malting and researching the industry, we decided it was time to take the next step and open a brewery.\r\n\r\nThe name 2 Basset Brewery was born out of the many similarities between basset hounds and our love of a good beer. Bassets are friendly, easy going, very social and they love to relax. Most of all, they make us laugh. These are some of the very same reasons many of us gather with family and friends over a great tasting craft beer.\r\n\r\nWe are proud to be crafting brews featuring locally grown grains, malting them ourselves and utilizing other Montana ingredients. Owners Barry and Chris Hedrich and their basset hounds Stanley and Leroy look forward to seeing you in beautiful White Sulphur Springs.",
+      "established": "2016",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/qfGVU4/upload_6CGM2H-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/qfGVU4/upload_6CGM2H-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/qfGVU4/upload_6CGM2H-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/qfGVU4/upload_6CGM2H-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/qfGVU4/upload_6CGM2H-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2015-11-04 22:12:40",
+      "updateDate": "2015-12-22 16:18:36",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "FNU4qr",
+    "name": "Main Brewery",
+    "streetAddress": "504 North Broadway Avenue",
+    "locality": "Bozeman",
+    "region": "Montana",
+    "postalCode": "59715",
+    "phone": "406-585-9142",
+    "website": "http://www.bozemanbrewing.com/",
+    "hoursOfOperation": "Sat -Thur 2pm to 8pm\r\nFriday noon-8pm",
+    "latitude": 45.685188,
+    "longitude": -111.0238569,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "N",
+    "openToPublic": "Y",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:41:47",
+    "updateDate": "2016-08-10 15:11:58",
+    "breweryId": "MEZupX",
+    "brewery": {
+      "id": "MEZupX",
+      "name": "Bozeman Brewing Co.",
+      "nameShortDisplay": "Bozeman",
+      "description":
+        "With necessity being the mother of invention\u2026Bozeman Brewing was born.\r\n\r\nLet us explain\u2026\r\n\r\nWhen Todd Scott met his future wife Lisa Danzl while both were working and playing in Yellowstone National Park in 1986, they conceived a dream together: To one day live off the land. It was a dream inspired by a trip to Alaska and a love for the outdoors, and one day, darn it, they were going to make it happen.\r\n\r\nThe couple moved to Tahoe, where Todd put his culinary degree to work as a sous chef while they skied. It was here that they decided it was time to become self-sufficient. Todd had every intention of making their own soap, toothpaste, even toilet paper. But one thing haunted him\u2026 he didn\u2019t want to live without beer. He had no choice; the first step was to learn how to make his own. And that was also the last step.\r\n\r\nTodd\u2019s natural knack for home brewing, made with borrowed equipment, quickly trumped the couple\u2019s off-the-grid dreams. And let\u2019s just say that Lisa wasn\u2019t all that disappointed\u2026now she didn\u2019t have to use the homemade toilet paper for starters, but she also got to drink some damn good beer. Todd and Lisa had never tasted such fine brew, and they knew they were on to something special.\r\n\r\nThat was just the beginning of the journey towards Bozone beer. The rest goes something like this\u2026\r\n\r\nTodd refined his beer making skills for a brewery in Calistoga, while working another job and taking classes on the art and science of beer fermentation at UC Davis. But all the while, Montana beckoned.\r\n\r\nTodd scored a job as the head brewer for Spanish Peaks in Bozeman\u2015a position he held for 10 years\u2015and Lisa worked for the City. When Spanish Peaks moved production to California, Todd and Lisa knew it was time to bring their own fine brews to the beer drinkers of Bozeman. They bought the equipment and opened the doors to the Bozeman Brewing Company warehouse in 2001, on the edge of Bozeman\u2019s historic Brewery District on the north side.\r\n\r\nThere, Bozeman Brewing\u2019s flagship beer, Bozone Select Amber Ale (based on a recipe that Todd had perfected over the years), made its way to the beer drinkers of Montana and beyond. Today, the same warehouse rotates more than 4 seasonal ales and lagers, along with the regulars Hopzone IPA, Plum Street Porter and Bozone Hefeweizen, all on tap in the Bozone tasting room.\r\n\r\nAnd today, Bozone beers have truly become a Montana state of mind\u2026",
+      "website": "http://www.bozemanbrewing.com/",
+      "established": "2001",
+      "isOrganic": "N",
+      "images": {
+        "icon":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/MEZupX/upload_VV5tlg-icon.png",
+        "medium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/MEZupX/upload_VV5tlg-medium.png",
+        "large":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/MEZupX/upload_VV5tlg-large.png",
+        "squareMedium":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/MEZupX/upload_VV5tlg-squareMedium.png",
+        "squareLarge":
+          "https://s3.amazonaws.com/brewerydbapi/brewery/MEZupX/upload_VV5tlg-squareLarge.png"
+      },
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:41:47",
+      "updateDate": "2016-08-10 15:10:59",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  },
+  {
+    "id": "2SuKYt",
+    "name": "Main Brewery",
+    "locality": "Belgrade",
+    "region": "Montana",
+    "latitude": 45.776508,
+    "longitude": -111.177716,
+    "isPrimary": "Y",
+    "inPlanning": "N",
+    "isClosed": "Y",
+    "openToPublic": "N",
+    "locationType": "micro",
+    "locationTypeDisplay": "Micro Brewery",
+    "countryIsoCode": "US",
+    "status": "verified",
+    "statusDisplay": "Verified",
+    "createDate": "2012-01-03 02:42:00",
+    "updateDate": "2015-11-05 16:43:03",
+    "breweryId": "czEE4b",
+    "brewery": {
+      "id": "czEE4b",
+      "name": "Lightning Boy Brewery",
+      "nameShortDisplay": "Lightning Boy",
+      "isOrganic": "N",
+      "status": "verified",
+      "statusDisplay": "Verified",
+      "createDate": "2012-01-03 02:42:00",
+      "updateDate": "2015-12-22 14:50:47",
+      "isMassOwned": "N",
+      "brandClassification": "craft"
+    },
+    "country": {
+      "isoCode": "US",
+      "name": "UNITED STATES",
+      "displayName": "United States",
+      "isoThree": "USA",
+      "numberCode": 840,
+      "createDate": "2012-01-03 02:41:33"
+    }
+  }
+]

@@ -3,7 +3,7 @@ class Manage::EventsController < Manage::ApplicationController
   before_action :set_event, only: [:show, :edit, :update, :destroy]
 
   def index
-    @events = current_brewery.events
+    @events = current_brewery.events.page(params[:page]).per(10)
   end
 
   def show

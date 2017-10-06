@@ -1,0 +1,24 @@
+<body>
+  <h1>Montana Breweries</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <% @breweries.each do |brewery| %>
+        <tr>
+          <td><%= brewery.name %></td>
+          <td><%= brewery.description %></td>
+          <td><%= link_to 'Website', brewery.website, class: "btn btn-primary"%></td>
+          <td><%= link_to 'Show', brewery, class: "btn btn-primary"%></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </table>
+
+  <%= paginate @breweries %>
+  <%= page_entries_info @breweries %>
+</body>

@@ -1,0 +1,28 @@
+@import 'bootstrap';
+
+nav {
+  background-color: #BD6575;
+
+  a {
+    color: white;
+    margin: 0 15px 0 15px;
+
+    &:hover {
+      color: #4E8DF1;
+    }
+  }
+}
+
+body {
+  background-color: #DCCAE6;
+  padding: 10px 10px 10px 10px;
+}
+
+.login {
+
+}
+
+td {
+  border: 1px solid blue;
+  padding: 10px;
+}

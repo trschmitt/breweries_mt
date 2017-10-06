@@ -1,0 +1,16 @@
+<body class="Brewery_show">
+  <h1><%= @brewery.name %></h1>
+  <h6><%= link_to 'Website', @brewery.website, class: "btn btn-info" %></h6>
+
+  <h2>Address: <%= @brewery.address_street %> | <%= @brewery.address_city %></h2>
+
+
+  <h3>Established: <%= @brewery.established %></h3>
+
+  <h4>Operating Hours: <%= @brewery.operating_hours %></h4>
+
+  <h4>Type: <%= @brewery.location_type %></h4>
+
+
+  <p><%= @brewery.description %></p>
+</body>

@@ -1,0 +1,14 @@
+<body>
+  <h1><%= @event.brewery.name %> Event</h1>
+
+  <%= link_to 'Back', events_path %>
+
+  <h1><%= @event.name %></h1>
+
+  <h3>Starts: <%= @event.start_at.strftime("%Y-%m-%d %I:%M %p") %></h3>
+  <h3>Ends: <%= @event.end_at.strftime("%Y-%m-%d %I:%M %p") %></h3>
+
+  <p>Description: <%= @event.description %></p>
+
+  <h4>Sales: <%= @event.sales %></h4>
+</body>

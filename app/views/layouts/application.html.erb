@@ -9,6 +9,17 @@
   </head>
 
   <body>
+    <header>
+      <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar_header">
+            <span><%= link_to "HOME", root_path %></span>
+            <span><%= link_to "BREWERY LOGIN", new_manage_session_path %></span>
+            <span><%= link_to "BREWERIES", breweries_path %></span>
+            <span><%= link_to "EVENTS", events_path %></span>
+        </div>
+      </div>
+    </header>
     <%= yield %>
   </body>
 </html>

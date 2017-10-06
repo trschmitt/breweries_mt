@@ -5,3 +5,23 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+file = File.read('db/data/mtbrewerydata.json')
+data = JSON.parse(file)
+
+data.each do |l|
+  brewery = Brewery.create({
+    name: l['brewery']['name'],
+    description: l['brewery']['description'],
+    website: l['brewery']['website'],
+    established: l['brewery']['established'],
+    address_street: l['streetAddress'],
+    address_city: l['locality'],
+    address_state: l['region'],
+    operating_hours: l['hoursOfOperation'],
+    phone: l['phone'],
+    location_type: l['locationTypeDisplay']
+  })
+end
+
+15.times do 
