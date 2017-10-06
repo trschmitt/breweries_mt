@@ -1,10 +1,8 @@
 
 <div class="jumbotron text-center">
     <h1><%= @event.brewery.name %> Event</h1>
-
-    <%= link_to 'Back', events_path %>
-
-    <h1><%= @event.name %></h1>model
+    <h2><%= @event.name %></h2>
+    <%= link_to 'Back', events_path, class: "btn btn-primary"%>
 </div>
 <div class="container">
 

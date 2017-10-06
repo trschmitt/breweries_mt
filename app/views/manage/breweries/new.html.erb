@@ -1,7 +1,7 @@
 <p id="notice"><%= notice %></p>
 
-<div class="jumbotron text_center">
-  <h1>Sign Up HERE!!!</h1>
+<div class="jumbotron text-center">
+  <h1>Brewery Sign Up</h1>
 </div>
 <div class="container">
     <% if @brewery.errors.any? %>
@@ -14,10 +14,10 @@
     <% end %>
 
     <%=  form_with model: [ :manage, @brewery ], local: true do |f| %>
-    Name: <%= f.text_field :name %>
-    Email: <%= f.text_field :email %>
-    Password: <%= f.password_field :password %>
-    Password Confirmation: <%= f.password_field :password_confirmation %>
+    <p>Name: <%= f.text_field :name %></p>
+    <p>Email: <%= f.text_field :email %></p>
+    <p>Password: <%= f.password_field :password %></p>
+    <p>Password Confirmation: <%= f.password_field :password_confirmation %></p>
     <%= f.submit "Sign me up eh!" %>
     <% end %>
 </div>
