@@ -1,16 +1,19 @@
 <p id="notice"><%= notice %></p>
-
-<h1>Brewery Login</h1>
-
-<% if current_brewery %>
+<div class="jumbotron text-center">
+  <h1>Brewery Login</h1>
+  <% if current_brewery %>
   You are now logged in as: <%= current_brewery.email %>.
-  <%= link_to "Log out", manage_session_path, method: :delete %>.
-<% else %>
-  You are not logged in. Need an account? <%= link_to "Sign up", new_manage_brewery_path %>
-<% end %>
+  <%= link_to "Log out", manage_session_path, method: :delete, class: "btn btn-warning" %>.
+  <% else %>
+  You are not logged in. Need an account? <%= link_to "Sign up", new_manage_brewery_path, class: "btn btn-success" %>
+  <% end %>
 
-<%= form_tag manage_session_path do %>
+</div>
+
+<div class="container">
+  <%= form_tag manage_session_path do %>
   Email: <%= text_field_tag :email %>
   Password: <%= password_field_tag :password %>
   <%= submit_tag "Submit" %>
-<% end %>
+  <% end %>
+</div>

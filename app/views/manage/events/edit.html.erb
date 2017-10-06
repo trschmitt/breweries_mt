@@ -1,6 +1,9 @@
-<h1>Editing Event</h1>
+<div class="jumbotron text-center">
+  <h1>Editing Event</h1>
+  <%= link_to 'Show', manage_event_path(@event), class: "btn btn-primary" %> 
+  <%= link_to 'Back', manage_events_path, class: "btn btn-warning" %>
+</div>
 
-<%= render 'form', event: @event %>
-
-<%= link_to 'Show', manage_event_path(@event) %> |
-<%= link_to 'Back', manage_events_path %>
+<div class="container">
+  <%= render 'form', event: @event %>
+</div>

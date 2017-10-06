@@ -1,5 +1,7 @@
-<h1>New Event</h1>
-
-<%= render 'form', event: @event %>
-
-<%= link_to 'Back', manage_events_path %>
+<div class="jumbotron text-center">
+  <h1>New Event</h1>
+  <%= link_to 'Back', manage_events_path, class: "btn btn-warning" %>
+</div>
+<div class="container">
+  <%= render 'form', event: @event %>
+</div>

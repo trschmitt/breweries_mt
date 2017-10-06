@@ -1,7 +1,8 @@
 @import 'bootstrap';
 
 nav {
-  background-color: #BD6575;
+
+  background-color: #6D3B2E;
 
   a {
     color: white;
@@ -14,15 +15,17 @@ nav {
 }
 
 body {
-  background-color: #DCCAE6;
-  padding: 10px 10px 10px 10px;
-}
-
-.login {
-
+  background-color: #9EADD6;
+  padding: 10px;
 }
 
 td {
-  border: 1px solid blue;
+  border-left: solid 1px #EDF1FC;
+  border-right: solid 1px #EDF1FC;
+
   padding: 10px;
+}
+
+.container {
+  text-align: center;
 }

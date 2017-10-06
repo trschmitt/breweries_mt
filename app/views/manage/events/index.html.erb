@@ -1,23 +1,19 @@
 <p id="notice"><%= notice %></p>
+<div class="jumbotron text-center">
+  <h1>Events</h1>
+</div>
 
-<h1>Events</h1>
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
-
-  <tbody>
+<div class="container">
+  <div class="row">
     <% @events.each do |event| %>
-      <tr>
-        <td><%= link_to event.name, manage_event_path(event) %></td>
-      </tr>
+      <div class="col-sm-4">
+        <h3><%= link_to event.name, manage_event_path(event) %></h3>
+        <p><%= event.description %></p>
+        <p><%= event.start_at %></p>
+      </div>
     <% end %>
-  </tbody>
-</table>
+  </div>
+</div>
 
 <%= paginate @events %>
 <%= page_entries_info @events %>

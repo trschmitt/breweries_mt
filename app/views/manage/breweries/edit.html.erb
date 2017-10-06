@@ -1,5 +1,8 @@
-<body>
-  <h1>Edit Your Information</h1>
+  <div class="jumbotron text-center">
+    <h1>Edit Your Information</h1>
+  </div>
+<div class="container">
+
   <%= form_with(model: [ :manage, current_brewery ], local: true) do |form| %>
     <% if current_brewery.errors.any? %>
       <div id="error_explanation">
@@ -72,4 +75,4 @@
       <%= form.submit %>
     </div>
   <% end %>
-</body>
+</div>

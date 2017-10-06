@@ -11,6 +11,8 @@ class Manage::EventsController < Manage::ApplicationController
 
   def new
     @event = current_brewery.events.build
+    @event.start_at = DateTime.now
+    @event.end_at = DateTime.now
   end
 
   def create

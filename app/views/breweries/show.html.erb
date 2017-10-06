@@ -1,6 +1,9 @@
-<body class="Brewery_show">
+<div class="jumbotron text-center">
   <h1><%= @brewery.name %></h1>
   <h6><%= link_to 'Website', @brewery.website, class: "btn btn-info" %></h6>
+</div>
+
+<div class="container">
 
   <h2>Address: <%= @brewery.address_street %> | <%= @brewery.address_city %></h2>
 
@@ -13,4 +16,4 @@
 
 
   <p><%= @brewery.description %></p>
-</body>
+</div>

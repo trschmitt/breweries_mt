@@ -31,6 +31,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem 'kaminari'
 gem 'bootstrap', '~> 4.0.0.beta'
+gem 'jquery-rails'
 
 
 group :development, :test do

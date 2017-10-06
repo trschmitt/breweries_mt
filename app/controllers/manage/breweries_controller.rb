@@ -1,6 +1,7 @@
 class Manage::BreweriesController < Manage::ApplicationController
 
   def show
+    @brewery = Brewery.find(params[:id])
   end
 
   def edit

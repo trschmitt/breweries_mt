@@ -1,10 +1,11 @@
 <p id="notice"> <%= notice %> </p>
-
-<p> <%= link_to 'Events', manage_events_path, class: "btn btn-primary" %>
-
-<body class="Brewery_show">
+<div class="jumbotron text-center">
   <h1><%= current_brewery.name %></h1>
-  <h6><%= link_to 'Website', current_brewery.website, class: "btn btn-info" %></h6>
+  <%= link_to 'Website', current_brewery.website, class: "btn btn-info" %>
+  <%= link_to 'Edit', edit_manage_brewery_path, class: "btn btn-info" %>
+</div>
+
+<div class="container">
 
   <h2>Address: <%= current_brewery.address_street %> | <%= current_brewery.address_city %></h2>
 
@@ -17,4 +18,4 @@
 
 
   <p><%= current_brewery.description %></p>
-</body>
+</div>

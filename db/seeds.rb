@@ -9,9 +9,12 @@
 file = File.read('db/data/mtbrewerydata.json')
 data = JSON.parse(file)
 
-data.each do |l|
+data.each_index do |index|
+  l = data[index]
   brewery = Brewery.create({
     name: l['brewery']['name'],
+    email: "montana#{index}@mt.com",
+    password: "password",
     description: l['brewery']['description'],
     website: l['brewery']['website'],
     established: l['brewery']['established'],
@@ -23,5 +26,3 @@ data.each do |l|
     location_type: l['locationTypeDisplay']
   })
 end
-
-15.times do 

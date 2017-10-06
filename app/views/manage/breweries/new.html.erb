@@ -1,20 +1,23 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Sign Up HERE!!!</h1>
-
-<% if @brewery.errors.any? %>
-  <h2>please correct the problems below before continueing...</h2>
-  <ul>
-    <% @brewery.errors.full_messages.each do |msg| %>
-    <li><%= msg %></li>
+<div class="jumbotron text_center">
+  <h1>Sign Up HERE!!!</h1>
+</div>
+<div class="container">
+    <% if @brewery.errors.any? %>
+    <h2>please correct the problems below before continueing...</h2>
+    <ul>
+      <% @brewery.errors.full_messages.each do |msg| %>
+      <li><%= msg %></li>
+      <% end %>
+    </ul>
     <% end %>
-  </ul>
-<% end %>
 
-<%=  form_with model: [ :manage, @brewery ], local: true do |f| %>
-  Name: <%= f.text_field :name %>
-  Email: <%= f.text_field :email %>
-  Password: <%= f.password_field :password %>
-  Password Confirmation: <%= f.password_field :password_confirmation %>
-  <%= f.submit "Sign me up eh!" %>
-<% end %>
+    <%=  form_with model: [ :manage, @brewery ], local: true do |f| %>
+    Name: <%= f.text_field :name %>
+    Email: <%= f.text_field :email %>
+    Password: <%= f.password_field :password %>
+    Password Confirmation: <%= f.password_field :password_confirmation %>
+    <%= f.submit "Sign me up eh!" %>
+    <% end %>
+</div>
