@@ -1,31 +1,44 @@
 @import 'bootstrap';
 
+
 nav {
 
-  background-color: #6D3B2E;
+  background-color: #598286;
+  border-radius: 6px;
 
   a {
     color: white;
     margin: 0 15px 0 15px;
 
     &:hover {
-      color: #4E8DF1;
+      color: #c75654;
     }
   }
 }
 
 body {
-  background-color: #9EADD6;
+  background-color: #c8cdca;
   padding: 10px;
 }
 
 td {
-  border-left: solid 1px #EDF1FC;
-  border-right: solid 1px #EDF1FC;
+  border-left: solid 1px #598286;
+  border-right: solid 1px #598286;
 
   padding: 10px;
 }
 
 .container {
-  text-align: center;
+
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .col-sm-4 {
+    padding: 2px;
+    margin: 5px;
+    border-bottom: solid 1px #598286;
+  }
 }

@@ -19,13 +19,13 @@
           <span><%= link_to "HOME", root_path,  class: "btn btn-sm"%></span>
 
           <% if current_brewery %>
-            <span><%= link_to "BREWERY LOGOUT", manage_session_path, method: :delete, class: "btn btn-sm"%></span>
+            <span><%= link_to "LOGOUT", manage_session_path, method: :delete, class: "btn btn-sm"%></span>
           <% else %>
-            <span><%= link_to "BREWERY LOGIN", new_manage_session_path, class: "btn btn-sm"%></span>
+            <span><%= link_to "LOGIN", new_manage_session_path, class: "btn btn-sm "%></span>
 
           <% end %>
           <% if !current_brewery  %>
-            <span><%= link_to "BREWERY SIGN UP", new_manage_brewery_path, class: "btn btn-sm" %></span>
+            <span><%= link_to "SIGN UP", new_manage_brewery_path, class: "btn btn-sm" %></span>
           <% end %>
             <span> <%= link_to "EVENTS", manage_events_path, class: "btn btn-sm" %></span>
             <span> <%= link_to "NEW EVENT", new_manage_event_path, class: "btn btn-sm" %> </span>

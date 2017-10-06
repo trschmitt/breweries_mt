@@ -1,7 +1,7 @@
 <p id="notice"> <%= notice %> </p>
 <div class="jumbotron text-center">
   <h1><%= current_brewery.name %></h1>
-  <%= link_to 'Website', current_brewery.website, class: "btn btn-info" %>
+  <%= link_to 'Website', current_brewery.website, class: "btn btn-info", target: :_blank %>
   <%= link_to 'Edit', edit_manage_brewery_path, class: "btn btn-info" %>
 </div>
 
